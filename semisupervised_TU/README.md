@@ -1,4 +1,4 @@
-### OP-GCL Finetuning: ###
+### OP-GCL Pre-Training: ###
 ```
 cd ./pretrain
 python main.py --dataset NCI1 --epochs 200 --lr 0.001 --beta 0.3 --suffix 0
