@@ -1,2 +1,2 @@
 # OP_GCL
-This is a paper code implementation, the specific paper has not yet been published
+This repository is the implementation of  "Graph-Level Contrastive Learning with InfoNCE Loss Optimization".
